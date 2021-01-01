@@ -236,7 +236,7 @@ text-decoration: none;
     border: 2px solid rgba(1, 16, 25, 0.53);
     padding: 20px 38px;
     border-radius: 8px;
-     transition: linear .2s;
+     transition: all linear .2s;
     color: black;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -245,7 +245,7 @@ text-decoration: none;
 #down  span a:hover{
     background-color:black; 
     color: aliceblue;
-    transition: linear .5s;
+    transition:all linear .2s;
     box-shadow: 0 0 10px black,
 0 0 500px black,
         0 0 90px black;
